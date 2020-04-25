@@ -1,93 +1,499 @@
 {
-  "data":{
-    "generalInfo":{
-      "casosConfirmados": 300,
-      "personasRecuperadas": 2,
-      "muertes": 24
-    },
-    "byDepartment":[
-      {
-        "name": "Santa Cruz",
-        "casosConfirmados": 147,
-        "personasRecuperadas": 1,
-        "muertes": 10
-      }, {
-        "name":"La Paz",
-        "casosConfirmados": 65,
-        "personasRecuperadas": 0,
-        "muertes": 8
-      }, {
-        "name":"Cochabamba",
-        "casosConfirmados": 49,
-        "personasRecuperadas": 0,
-        "muertes": 4
-      }, {
-        "name":"Potosí",
-        "casosConfirmados": 15,
-        "personasRecuperadas": 0,
-        "muertes": 1
-      }, {
-        "name":"Pando",
-        "casosConfirmados": 11,
-        "personasRecuperadas": 0,
-        "muertes": 0
-      }, {
-        "name":"Oruro",
-        "casosConfirmados": 11,
-        "personasRecuperadas": 1,
-        "muertes": 1
-      }, {
-        "name":"Tarija",
-        "casosConfirmados": 1,
-        "personasRecuperadas": 0,
-        "muertes": 0
-      }, {
-        "name":"Chuquisaca",
-        "casosConfirmados": 1,
-        "personasRecuperadas": 0,
-        "muertes": 0
-      }, {
-        "name":"Beni",
-        "casosConfirmados": 0,
-        "personasRecuperadas": 0,
-        "muertes": 0
-      }
-    ],
-    "hystoricByDay": [
-      {"name": "", "casos": 0, "muertes": 0},
-      {"name": "10 Mar", "casos": 2, "muertes": 0},
-      {"name": "11 Mar", "casos": 3, "muertes": 0},
-      {"name": "12 Mar", "casos": 3, "muertes": 0},
-      {"name": "13 Mar", "casos": 10, "muertes": 0},
-      {"name": "14 Mar", "casos": 10, "muertes": 0},
-      {"name": "15 Mar", "casos": 11, "muertes": 0},
-      {"name": "16 Mar", "casos": 11, "muertes": 0},
-      {"name": "17 Mar", "casos": 12, "muertes": 0},
-      {"name": "18 Mar", "casos": 12, "muertes": 0},
-      {"name": "19 Mar", "casos": 17, "muertes": 0},
-      {"name": "20 Mar", "casos": 19, "muertes": 0},
-      {"name": "21 Mar", "casos": 20, "muertes": 0},
-      {"name": "22 Mar", "casos": 27, "muertes": 0},
-      {"name": "23 Mar", "casos": 28, "muertes": 0},
-      {"name": "24 Mar", "casos": 32, "muertes": 0},
-      {"name": "25 Mar", "casos": 39, "muertes": 0},
-      {"name": "26 Mar", "casos": 61, "muertes": 0},
-      {"name": "27 Mar", "casos": 74, "muertes": 0},
-      {"name": "28 Mar", "casos": 81, "muertes": 0},
-      {"name": "29 Mar", "casos": 96, "muertes": 3},
-      {"name": "30 Mar", "casos": 107, "muertes": 6},
-      {"name": "31 Mar", "casos": 115, "muertes": 7},
-      {"name": "1 Abr", "casos": 123, "muertes": 8},
-      {"name": "2 Abr", "casos": 132, "muertes": 9},
-      {"name": "3 Abr", "casos": 139, "muertes": 10},
-      {"name": "4 Abr", "casos": 157, "muertes": 10},
-      {"name": "5 Abr", "casos": 183, "muertes": 11},
-      {"name": "6 Abr", "casos": 194, "muertes": 14},
-      {"name": "7 Abr", "casos": 210, "muertes": 15},
-      {"name": "8 Abr", "casos": 264, "muertes": 18},
-      {"name": "9 Abr", "casos": 268, "muertes": 19},
-      {"name": "10 Abr", "casos": 275, "muertes": 20},
-      {"name": "11 Abr", "casos": 300, "muertes": 24}
-    ]
-  }
+   "data":{
+      "generalInfo":{
+         "casosConfirmados":300,
+         "personasRecuperadas":2,
+         "muertes":24
+      },
+      "byDepartment":[
+         {
+            "name":"Santa Cruz",
+            "casosConfirmados":147,
+            "personasRecuperadas":1,
+            "muertes":10
+         },
+         {
+            "name":"La Paz",
+            "casosConfirmados":65,
+            "personasRecuperadas":0,
+            "muertes":8
+         },
+         {
+            "name":"Cochabamba",
+            "casosConfirmados":49,
+            "personasRecuperadas":0,
+            "muertes":4
+         },
+         {
+            "name":"Potosí",
+            "casosConfirmados":15,
+            "personasRecuperadas":0,
+            "muertes":1
+         },
+         {
+            "name":"Pando",
+            "casosConfirmados":11,
+            "personasRecuperadas":0,
+            "muertes":0
+         },
+         {
+            "name":"Oruro",
+            "casosConfirmados":11,
+            "personasRecuperadas":1,
+            "muertes":1
+         },
+         {
+            "name":"Tarija",
+            "casosConfirmados":1,
+            "personasRecuperadas":0,
+            "muertes":0
+         },
+         {
+            "name":"Chuquisaca",
+            "casosConfirmados":1,
+            "personasRecuperadas":0,
+            "muertes":0
+         },
+         {
+            "name":"Beni",
+            "casosConfirmados":0,
+            "personasRecuperadas":0,
+            "muertes":0
+         }
+      ],
+      "hystoricByDay":[
+         {
+            "name":"",
+            "casos":0,
+            "muertes":0
+         },
+         {
+            "name":"10 Mar",
+            "casos":2,
+            "muertes":0
+         },
+         {
+            "name":"11 Mar",
+            "casos":3,
+            "muertes":0
+         },
+         {
+            "name":"12 Mar",
+            "casos":3,
+            "muertes":0
+         },
+         {
+            "name":"13 Mar",
+            "casos":10,
+            "muertes":0
+         },
+         {
+            "name":"14 Mar",
+            "casos":10,
+            "muertes":0
+         },
+         {
+            "name":"15 Mar",
+            "casos":11,
+            "muertes":0
+         },
+         {
+            "name":"16 Mar",
+            "casos":11,
+            "muertes":0
+         },
+         {
+            "name":"17 Mar",
+            "casos":12,
+            "muertes":0
+         },
+         {
+            "name":"18 Mar",
+            "casos":12,
+            "muertes":0
+         },
+         {
+            "name":"19 Mar",
+            "casos":17,
+            "muertes":0
+         },
+         {
+            "name":"20 Mar",
+            "casos":19,
+            "muertes":0
+         },
+         {
+            "name":"21 Mar",
+            "casos":20,
+            "muertes":0
+         },
+         {
+            "name":"22 Mar",
+            "casos":27,
+            "muertes":0
+         },
+         {
+            "name":"23 Mar",
+            "casos":28,
+            "muertes":0
+         },
+         {
+            "name":"24 Mar",
+            "casos":32,
+            "muertes":0
+         },
+         {
+            "name":"25 Mar",
+            "casos":39,
+            "muertes":0
+         },
+         {
+            "name":"26 Mar",
+            "casos":61,
+            "muertes":0
+         },
+         {
+            "name":"27 Mar",
+            "casos":74,
+            "muertes":0
+         },
+         {
+            "name":"28 Mar",
+            "casos":81,
+            "muertes":0
+         },
+         {
+            "name":"29 Mar",
+            "casos":96,
+            "muertes":3
+         },
+         {
+            "name":"30 Mar",
+            "casos":107,
+            "muertes":6
+         },
+         {
+            "name":"31 Mar",
+            "casos":115,
+            "muertes":7
+         },
+         {
+            "name":"1 Abr",
+            "casos":123,
+            "muertes":8
+         },
+         {
+            "name":"2 Abr",
+            "casos":132,
+            "muertes":9
+         },
+         {
+            "name":"3 Abr",
+            "casos":139,
+            "muertes":10
+         },
+         {
+            "name":"4 Abr",
+            "casos":157,
+            "muertes":10
+         },
+         {
+            "name":"5 Abr",
+            "casos":183,
+            "muertes":11
+         },
+         {
+            "name":"6 Abr",
+            "casos":194,
+            "muertes":14
+         },
+         {
+            "name":"7 Abr",
+            "casos":210,
+            "muertes":15
+         },
+         {
+            "name":"8 Abr",
+            "casos":264,
+            "muertes":18
+         },
+         {
+            "name":"9 Abr",
+            "casos":268,
+            "muertes":19
+         },
+         {
+            "name":"10 Abr",
+            "casos":275,
+            "muertes":20
+         },
+         {
+            "name":"11 Abr",
+            "casos":300,
+            "muertes":24
+         }
+      ],
+      "graphicCoordinates":[
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -68.1193,
+               -16.4897
+            ],
+            "radioInfection":15,
+            "location":"LA PAZ-CIUDAD DE LA PAZ"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -68.2147,
+               -16.5001
+            ],
+            "radioInfection":8,
+            "location":"LA PAZ-EL ALTO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -67.9216919,
+               -17.2357998
+            ],
+            "radioInfection":8,
+            "location":"LA PAZ-PATACAMAYA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -69.0862,
+               -16.1663
+            ],
+            "radioInfection":4,
+            "location":"LA PAZ-COPACABANA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -67.106,
+               -17.9647
+            ],
+            "radioInfection":15,
+            "location":"ORURO-CIUDAD DE ORURO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.7530594,
+               -19.5836105
+            ],
+            "radioInfection":15,
+            "location":"POTOSI-CIUDAD DE POTOSI"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.7281,
+               -21.5214
+            ],
+            "radioInfection":4,
+            "location":"TARIJA-CIUDAD DE TARIJA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.2554,
+               -19.0429
+            ],
+            "radioInfection":4,
+            "location":"CHUQUISACA-SUCRE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.9087,
+               -18.1089
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-OMEREQUE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.9325333,
+               -17.5877705
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-CLIZA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.1532974,
+               -16.9941692
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-CHIMORE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.2783813,
+               -17.3922806
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-QUILLACOLLO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.8347168,
+               -17.5423393
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-PUNATA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.2608185,
+               -17.7111301
+            ],
+            "radioInfection":5,
+            "location":"COCHABAMBA-CAPINOTA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.2427,
+               -17.551
+            ],
+            "radioInfection":5,
+            "location":"COCHABAMBA-SANTIBAÑEZ"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.0382538,
+               -17.3979893
+            ],
+            "radioInfection":5,
+            "location":"COCHABAMBA-SACABA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.1653,
+               -17.414
+            ],
+            "radioInfection":5,
+            "location":"COCHABAMBA-COLCAPIRHUA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.1653,
+               -17.414
+            ],
+            "radioInfection":15,
+            "location":"COCHABAMBA-CIUDAD DE COCHABAMBA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.2504997,
+               -17.3386593
+            ],
+            "radioInfection":15,
+            "location":"SANTA CRUZ-MONTERO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.1060867,
+               -18.4892292
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-VALLEGRANDE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.324,
+               -17.891
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-LA GUARDIA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.1677818,
+               -17.5163002
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-WARNES"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -59.7614212,
+               -18.3347301
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-ROBORE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.7312,
+               -17.4048
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-SAN CARLOS"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.1561,
+               -17.8146
+            ],
+            "radioInfection":20,
+            "location":"SANTA CRUZ - SANTA CRUZ DE LA SIERRA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -68.7691803,
+               -11.0267096
+            ],
+            "radioInfection":10,
+            "location":"PANDO-COBIJA"
+         }
+      ]
+   }
 }
