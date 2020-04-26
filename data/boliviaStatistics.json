@@ -65,242 +65,290 @@
          {
             "name":"",
             "casos":0,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"10 Mar",
             "casos":2,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"11 Mar",
             "casos":3,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"12 Mar",
             "casos":3,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"13 Mar",
             "casos":10,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"14 Mar",
             "casos":10,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"15 Mar",
             "casos":11,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"16 Mar",
             "casos":11,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"17 Mar",
             "casos":12,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"18 Mar",
             "casos":12,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"19 Mar",
             "casos":17,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"20 Mar",
             "casos":19,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"21 Mar",
             "casos":20,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"22 Mar",
             "casos":27,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"23 Mar",
             "casos":28,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"24 Mar",
             "casos":32,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"25 Mar",
             "casos":39,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"26 Mar",
             "casos":61,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"27 Mar",
             "casos":74,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"28 Mar",
             "casos":81,
-            "muertes":0
+            "muertes":0,
+            "recuperados":0
          },
          {
             "name":"29 Mar",
             "casos":96,
-            "muertes":3
+            "muertes":3,
+            "recuperados":0
          },
          {
             "name":"30 Mar",
             "casos":107,
-            "muertes":6
+            "muertes":6,
+            "recuperados":0
          },
          {
             "name":"31 Mar",
             "casos":115,
-            "muertes":7
+            "muertes":7,
+            "recuperados":0
          },
          {
             "name":"1 Abr",
             "casos":123,
-            "muertes":8
+            "muertes":8,
+            "recuperados":1
          },
          {
             "name":"2 Abr",
             "casos":132,
-            "muertes":9
+            "muertes":9,
+            "recuperados":2
          },
          {
             "name":"3 Abr",
             "casos":139,
-            "muertes":10
+            "muertes":10,
+            "recuperados":2
          },
          {
             "name":"4 Abr",
             "casos":157,
-            "muertes":10
+            "muertes":10,
+            "recuperados":2
          },
          {
             "name":"5 Abr",
             "casos":183,
-            "muertes":11
+            "muertes":11,
+            "recuperados":2
          },
          {
             "name":"6 Abr",
             "casos":194,
-            "muertes":14
+            "muertes":14,
+            "recuperados":3
          },
          {
             "name":"7 Abr",
             "casos":210,
-            "muertes":15
+            "muertes":15,
+            "recuperados":3
          },
          {
             "name":"8 Abr",
             "casos":264,
-            "muertes":18
+            "muertes":18,
+            "recuperados":3
          },
          {
             "name":"9 Abr",
             "casos":268,
-            "muertes":19
+            "muertes":19,
+            "recuperados":4
          },
          {
             "name":"10 Abr",
             "casos":275,
-            "muertes":20
+            "muertes":20,
+            "recuperados":4
          },
          {
             "name":"11 Abr",
             "casos":300,
-            "muertes":24
+            "muertes":24,
+            "recuperados":4
          },
          {
             "name":"12 Abr",
             "casos":330,
-            "muertes":27
+            "muertes":27,
+            "recuperados":6
          },
          {
             "name":"13 Abr",
             "casos":354,
-            "muertes":28
+            "muertes":28,
+            "recuperados":6
          },
          {
             "name":"14 Abr",
             "casos":397,
-            "muertes":28
+            "muertes":28,
+            "recuperados":7
          },
          {
             "name":"15 Abr",
             "casos":441,
-            "muertes":29
+            "muertes":29,
+            "recuperados":14
          },
          {
             "name":"16 Abr",
             "casos":465,
-            "muertes":31
+            "muertes":31,
+            "recuperados":26
          },
          {
             "name":"17 Abr",
             "casos":493,
-            "muertes":31
+            "muertes":31,
+            "recuperados":31
          },
          {
             "name":"18 Abr",
             "casos":520,
-            "muertes":32
+            "muertes":32,
+            "recuperados":31
          },
          {
             "name":"19 Abr",
             "casos":564,
-            "muertes":33
+            "muertes":33,
+            "recuperados":31
          },
          {
             "name":"20 Abr",
             "casos":598,
-            "muertes":34
+            "muertes":34,
+            "recuperados":47
          },
          {
             "name":"21 Abr",
             "casos":609,
-            "muertes":37
+            "muertes":37,
+            "recuperados":47
          },
          {
             "name":"22 Abr",
             "casos":672,
-            "muertes":40
+            "muertes":40,
+            "recuperados":50
          },
          {
             "name":"23 Abr",
             "casos":703,
-            "muertes":43
+            "muertes":43,
+            "recuperados":63
          },
          {
             "name":"24 Abr",
             "casos":807,
-            "muertes":44
+            "muertes":44,
+            "recuperados":63
          },
          {
             "name":"25 Abr",
             "casos":866,
-            "muertes":46
+            "muertes":46,
+            "recuperados":75
          }
       ],
       "graphicCoordinates":[
