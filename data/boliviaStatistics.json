@@ -1,64 +1,64 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":300,
-         "personasRecuperadas":2,
-         "muertes":24
+         "casosConfirmados":866,
+         "personasRecuperadas":75,
+         "muertes":46
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":147,
-            "personasRecuperadas":1,
-            "muertes":10
+            "casosConfirmados":489,
+            "personasRecuperadas":33,
+            "muertes":20
          },
          {
             "name":"La Paz",
-            "casosConfirmados":65,
-            "personasRecuperadas":0,
-            "muertes":8
+            "casosConfirmados":159,
+            "personasRecuperadas":15,
+            "muertes":15
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":49,
-            "personasRecuperadas":0,
-            "muertes":4
+            "casosConfirmados":71,
+            "personasRecuperadas":13,
+            "muertes":6
          },
          {
             "name":"Potosí",
-            "casosConfirmados":15,
+            "casosConfirmados":26,
             "personasRecuperadas":0,
             "muertes":1
          },
          {
             "name":"Pando",
-            "casosConfirmados":11,
-            "personasRecuperadas":0,
-            "muertes":0
-         },
-         {
-            "name":"Oruro",
-            "casosConfirmados":11,
-            "personasRecuperadas":1,
+            "casosConfirmados":12,
+            "personasRecuperadas":6,
             "muertes":1
          },
          {
+            "name":"Oruro",
+            "casosConfirmados":65,
+            "personasRecuperadas":8,
+            "muertes":2
+         },
+         {
             "name":"Tarija",
-            "casosConfirmados":1,
+            "casosConfirmados":3,
             "personasRecuperadas":0,
             "muertes":0
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":1,
+            "casosConfirmados":2,
             "personasRecuperadas":0,
             "muertes":0
          },
          {
             "name":"Beni",
-            "casosConfirmados":0,
+            "casosConfirmados":39,
             "personasRecuperadas":0,
-            "muertes":0
+            "muertes":1
          }
       ],
       "hystoricByDay":[
@@ -231,6 +231,76 @@
             "name":"11 Abr",
             "casos":300,
             "muertes":24
+         },
+         {
+            "name":"12 Abr",
+            "casos":330,
+            "muertes":27
+         },
+         {
+            "name":"13 Abr",
+            "casos":354,
+            "muertes":28
+         },
+         {
+            "name":"14 Abr",
+            "casos":397,
+            "muertes":28
+         },
+         {
+            "name":"15 Abr",
+            "casos":441,
+            "muertes":29
+         },
+         {
+            "name":"16 Abr",
+            "casos":465,
+            "muertes":31
+         },
+         {
+            "name":"17 Abr",
+            "casos":493,
+            "muertes":31
+         },
+         {
+            "name":"18 Abr",
+            "casos":520,
+            "muertes":32
+         },
+         {
+            "name":"19 Abr",
+            "casos":564,
+            "muertes":33
+         },
+         {
+            "name":"20 Abr",
+            "casos":598,
+            "muertes":34
+         },
+         {
+            "name":"21 Abr",
+            "casos":609,
+            "muertes":37
+         },
+         {
+            "name":"22 Abr",
+            "casos":672,
+            "muertes":40
+         },
+         {
+            "name":"23 Abr",
+            "casos":703,
+            "muertes":43
+         },
+         {
+            "name":"24 Abr",
+            "casos":807,
+            "muertes":44
+         },
+         {
+            "name":"25 Abr",
+            "casos":866,
+            "muertes":46
          }
       ],
       "graphicCoordinates":[
