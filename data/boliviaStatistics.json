@@ -1,26 +1,26 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":866,
-         "personasRecuperadas":75,
-         "muertes":46
+         "casosConfirmados":950,
+         "personasRecuperadas":80,
+         "muertes":50
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":489,
+            "casosConfirmados":525,
             "personasRecuperadas":33,
-            "muertes":20
+            "muertes":22
          },
          {
             "name":"La Paz",
-            "casosConfirmados":159,
+            "casosConfirmados":168,
             "personasRecuperadas":15,
             "muertes":15
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":71,
+            "casosConfirmados":78,
             "personasRecuperadas":13,
             "muertes":6
          },
@@ -38,9 +38,9 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":65,
+            "casosConfirmados":79,
             "personasRecuperadas":8,
-            "muertes":2
+            "muertes":4
          },
          {
             "name":"Tarija",
@@ -56,7 +56,7 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":39,
+            "casosConfirmados":57,
             "personasRecuperadas":0,
             "muertes":1
          }
@@ -349,6 +349,12 @@
             "casos":866,
             "muertes":46,
             "recuperados":75
+         },
+         {
+            "name":"26 Abr",
+            "casos":950,
+            "muertes":50,
+            "recuperados":80
          }
       ],
       "graphicCoordinates":[
