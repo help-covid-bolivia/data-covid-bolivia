@@ -2,8 +2,8 @@
    "data":{
       "generalInfo":{
          "casosConfirmados":1053,
-         "personasRecuperadas":100,
-         "muertes":53
+         "personasRecuperadas":110,
+         "muertes":55
       },
       "byDepartment":[
          {
