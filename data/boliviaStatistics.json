@@ -1,33 +1,33 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":950,
-         "personasRecuperadas":80,
-         "muertes":50
+         "casosConfirmados":1053,
+         "personasRecuperadas":100,
+         "muertes":53
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":525,
-            "personasRecuperadas":33,
-            "muertes":22
+            "casosConfirmados":587,
+            "personasRecuperadas":41,
+            "muertes":25
          },
          {
             "name":"La Paz",
-            "casosConfirmados":168,
-            "personasRecuperadas":15,
+            "casosConfirmados":188,
+            "personasRecuperadas":19,
             "muertes":15
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":78,
-            "personasRecuperadas":13,
+            "casosConfirmados":79,
+            "personasRecuperadas":22,
             "muertes":6
          },
          {
             "name":"Potosí",
             "casosConfirmados":26,
-            "personasRecuperadas":0,
+            "personasRecuperadas":2,
             "muertes":1
          },
          {
@@ -38,8 +38,8 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":79,
-            "personasRecuperadas":8,
+            "casosConfirmados":92,
+            "personasRecuperadas":10,
             "muertes":4
          },
          {
@@ -50,13 +50,13 @@
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":2,
+            "casosConfirmados":3,
             "personasRecuperadas":0,
             "muertes":0
          },
          {
             "name":"Beni",
-            "casosConfirmados":57,
+            "casosConfirmados":63,
             "personasRecuperadas":0,
             "muertes":1
          }
@@ -354,7 +354,19 @@
             "name":"26 Abr",
             "casos":950,
             "muertes":50,
-            "recuperados":80
+            "recuperados":81
+         },
+         {
+            "name":"27 Abr",
+            "casos":1014,
+            "muertes":53,
+            "recuperados":100
+         },
+         {
+            "name":"28 Abr",
+            "casos":1053,
+            "muertes":53,
+            "recuperados":100
          }
       ],
       "graphicCoordinates":[
