@@ -9,13 +9,13 @@
          {
             "name":"Santa Cruz",
             "casosConfirmados":615,
-            "personasRecuperadas":41,
-            "muertes":25
+            "personasRecuperadas":50,
+            "muertes":29
          },
          {
             "name":"La Paz",
             "casosConfirmados":202,
-            "personasRecuperadas":19,
+            "personasRecuperadas":27,
             "muertes":15
          },
          {
