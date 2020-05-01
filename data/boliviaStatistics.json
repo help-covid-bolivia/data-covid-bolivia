@@ -1,20 +1,20 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1110,
-         "personasRecuperadas":117,
-         "muertes":59
+         "casosConfirmados":1167,
+         "personasRecuperadas":132,
+         "muertes":62
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":615,
+            "casosConfirmados":656,
             "personasRecuperadas":50,
             "muertes":29
          },
          {
             "name":"La Paz",
-            "casosConfirmados":202,
+            "casosConfirmados":128,
             "personasRecuperadas":27,
             "muertes":15
          },
@@ -373,6 +373,12 @@
             "casos":1110,
             "muertes":59,
             "recuperados":117
+         },
+         {
+            "name":"29 Abr",
+            "casos":1167,
+            "muertes":62,
+            "recuperados":132
          }
       ],
       "graphicCoordinates":[
