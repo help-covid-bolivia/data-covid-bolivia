@@ -1,27 +1,27 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1167,
+         "casosConfirmados":1229,
          "personasRecuperadas":132,
          "muertes":62
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":656,
-            "personasRecuperadas":50,
-            "muertes":29
+            "casosConfirmados":693,
+            "personasRecuperadas":62,
+            "muertes":32
          },
          {
             "name":"La Paz",
-            "casosConfirmados":128,
+            "casosConfirmados":131,
             "personasRecuperadas":27,
             "muertes":15
          },
          {
             "name":"Cochabamba",
             "casosConfirmados":80,
-            "personasRecuperadas":22,
+            "personasRecuperadas":25,
             "muertes":6
          },
          {
@@ -38,7 +38,7 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":102,
+            "casosConfirmados":107,
             "personasRecuperadas":10,
             "muertes":6
          },
@@ -50,13 +50,13 @@
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":3,
+            "casosConfirmados":4,
             "personasRecuperadas":0,
             "muertes":0
          },
          {
             "name":"Beni",
-            "casosConfirmados":67,
+            "casosConfirmados":83,
             "personasRecuperadas":0,
             "muertes":1
          }
@@ -377,6 +377,12 @@
          {
             "name":"30 Abr",
             "casos":1167,
+            "muertes":62,
+            "recuperados":132
+         },
+         {
+            "name":"1 May",
+            "casos":1229,
             "muertes":62,
             "recuperados":132
          }
