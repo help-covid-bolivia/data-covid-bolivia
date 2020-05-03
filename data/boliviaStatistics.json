@@ -1,26 +1,26 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1229,
-         "personasRecuperadas":132,
-         "muertes":62
+         "casosConfirmados":1470,
+         "personasRecuperadas":159,
+         "muertes":71
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":693,
-            "personasRecuperadas":62,
-            "muertes":32
+            "casosConfirmados":806,
+            "personasRecuperadas":64,
+            "muertes":38
          },
          {
             "name":"La Paz",
-            "casosConfirmados":131,
-            "personasRecuperadas":27,
+            "casosConfirmados":236,
+            "personasRecuperadas":32,
             "muertes":15
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":80,
+            "casosConfirmados":81,
             "personasRecuperadas":25,
             "muertes":6
          },
@@ -38,7 +38,7 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":107,
+            "casosConfirmados":111,
             "personasRecuperadas":10,
             "muertes":6
          },
@@ -52,13 +52,13 @@
             "name":"Chuquisaca",
             "casosConfirmados":4,
             "personasRecuperadas":0,
-            "muertes":0
+            "muertes":1
          },
          {
             "name":"Beni",
-            "casosConfirmados":83,
+            "casosConfirmados":191,
             "personasRecuperadas":0,
-            "muertes":1
+            "muertes":4
          }
       ],
       "hystoricByDay":[
@@ -385,6 +385,12 @@
             "casos":1229,
             "muertes":62,
             "recuperados":132
+         },
+         {
+            "name":"2 May",
+            "casos":1470,
+            "muertes":71,
+            "recuperados":159
          }
       ],
       "graphicCoordinates":[
@@ -825,7 +831,7 @@
                -64.9000015,
                -14.8333302
             ],
-            "radioInfection":10,
+            "radioInfection":15,
             "location":"BENI-TRINIDAD"
          }
       ]
