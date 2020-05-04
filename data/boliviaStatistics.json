@@ -1,21 +1,21 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1470,
-         "personasRecuperadas":159,
-         "muertes":71
+         "casosConfirmados":1594,
+         "personasRecuperadas":166,
+         "muertes":76
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":806,
-            "personasRecuperadas":64,
-            "muertes":38
+            "casosConfirmados":904,
+            "personasRecuperadas":67,
+            "muertes":40
          },
          {
             "name":"La Paz",
-            "casosConfirmados":236,
-            "personasRecuperadas":32,
+            "casosConfirmados":241,
+            "personasRecuperadas":38,
             "muertes":15
          },
          {
@@ -39,7 +39,7 @@
          {
             "name":"Oruro",
             "casosConfirmados":111,
-            "personasRecuperadas":10,
+            "personasRecuperadas":28,
             "muertes":6
          },
          {
@@ -52,13 +52,13 @@
             "name":"Chuquisaca",
             "casosConfirmados":4,
             "personasRecuperadas":0,
-            "muertes":1
+            "muertes":0
          },
          {
             "name":"Beni",
-            "casosConfirmados":191,
+            "casosConfirmados":212,
             "personasRecuperadas":0,
-            "muertes":3
+            "muertes":6
          }
       ],
       "hystoricByDay":[
@@ -391,6 +391,12 @@
             "casos":1470,
             "muertes":71,
             "recuperados":159
+         },
+         {
+            "name":"3 May",
+            "casos":1594,
+            "muertes":76,
+            "recuperados":166
          }
       ],
       "graphicCoordinates":[
