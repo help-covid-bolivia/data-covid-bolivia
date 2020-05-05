@@ -1,26 +1,26 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1594,
-         "personasRecuperadas":166,
-         "muertes":76
+         "casosConfirmados":1681,
+         "personasRecuperadas":174,
+         "muertes":82
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":904,
-            "personasRecuperadas":67,
-            "muertes":40
+            "casosConfirmados":979,
+            "personasRecuperadas":68,
+            "muertes":44
          },
          {
             "name":"La Paz",
-            "casosConfirmados":241,
-            "personasRecuperadas":38,
+            "casosConfirmados":243,
+            "personasRecuperadas":45,
             "muertes":15
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":81,
+            "casosConfirmados":82,
             "personasRecuperadas":25,
             "muertes":6
          },
@@ -40,19 +40,19 @@
             "name":"Oruro",
             "casosConfirmados":111,
             "personasRecuperadas":28,
-            "muertes":6
+            "muertes":7
          },
          {
             "name":"Tarija",
-            "casosConfirmados":3,
+            "casosConfirmados":4,
             "personasRecuperadas":0,
-            "muertes":0
+            "muertes":1
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":4,
+            "casosConfirmados":5,
             "personasRecuperadas":0,
-            "muertes":0
+            "muertes":1
          },
          {
             "name":"Beni",
@@ -397,6 +397,12 @@
             "casos":1594,
             "muertes":76,
             "recuperados":166
+         },
+         {
+            "name":"3 May",
+            "casos":1681,
+            "muertes":82,
+            "recuperados":174
          }
       ],
       "graphicCoordinates":[
@@ -419,6 +425,16 @@
             ],
             "radioInfection":8,
             "location":"LA PAZ-EL ALTO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -68.2922,
+               -16.6478
+            ],
+            "radioInfection":4,
+            "location":"LA PAZ-VIACHA"
          },
          {
             "markerOffset":0,
@@ -497,7 +513,7 @@
                -66.8358307,
                -18.2889996
             ],
-            "radioInfection":10,
+            "radioInfection":12,
             "location":"ORURO-HUANUNI"
          },
          {
@@ -824,6 +840,16 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -63.9596,
+               -18.1191
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ - MAIRANA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -68.7691803,
                -11.0267096
             ],
@@ -839,6 +865,16 @@
             ],
             "radioInfection":15,
             "location":"BENI-TRINIDAD"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.7333,
+               -13.5333
+            ],
+            "radioInfection":4,
+            "location":"BENI-SAN INGACIO DE MOXOS"
          }
       ]
    }
