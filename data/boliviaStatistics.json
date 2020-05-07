@@ -1,21 +1,21 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1802,
-         "personasRecuperadas":187,
-         "muertes":86
+         "casosConfirmados":1886,
+         "personasRecuperadas":198,
+         "muertes":91
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1083,
+            "casosConfirmados":1160,
             "personasRecuperadas":68,
-            "muertes":44
+            "muertes":50
          },
          {
             "name":"La Paz",
-            "casosConfirmados":253,
-            "personasRecuperadas":46,
+            "casosConfirmados":260,
+            "personasRecuperadas":49,
             "muertes":16
          },
          {
@@ -39,7 +39,7 @@
          {
             "name":"Oruro",
             "casosConfirmados":113,
-            "personasRecuperadas":28,
+            "personasRecuperadas":36,
             "muertes":7
          },
          {
@@ -58,7 +58,7 @@
             "name":"Beni",
             "casosConfirmados":212,
             "personasRecuperadas":0,
-            "muertes":7
+            "muertes":8
          }
       ],
       "hystoricByDay":[
@@ -409,6 +409,12 @@
             "casos":1802,
             "muertes":86,
             "recuperados":187
+         },
+         {
+            "name":"6 May",
+            "casos":1886,
+            "muertes":91,
+            "recuperados":198
          }
       ],
       "graphicCoordinates":[
