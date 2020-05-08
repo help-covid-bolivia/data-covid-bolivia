@@ -1,20 +1,20 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":1886,
-         "personasRecuperadas":198,
-         "muertes":91
+         "casosConfirmados":2081,
+         "personasRecuperadas":219,
+         "muertes":102
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1160,
-            "personasRecuperadas":68,
-            "muertes":50
+            "casosConfirmados":1318,
+            "personasRecuperadas":80,
+            "muertes":52
          },
          {
             "name":"La Paz",
-            "casosConfirmados":260,
+            "casosConfirmados":271,
             "personasRecuperadas":49,
             "muertes":16
          },
@@ -38,9 +38,9 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":113,
-            "personasRecuperadas":36,
-            "muertes":7
+            "casosConfirmados":115,
+            "personasRecuperadas":45,
+            "muertes":8
          },
          {
             "name":"Tarija",
@@ -50,15 +50,15 @@
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":6,
+            "casosConfirmados":11,
             "personasRecuperadas":0,
             "muertes":1
          },
          {
             "name":"Beni",
-            "casosConfirmados":212,
+            "casosConfirmados":231,
             "personasRecuperadas":0,
-            "muertes":8
+            "muertes":16
          }
       ],
       "hystoricByDay":[
@@ -415,6 +415,12 @@
             "casos":1886,
             "muertes":91,
             "recuperados":198
+         },
+         {
+            "name":"7 May",
+            "casos":2081,
+            "muertes":102,
+            "recuperados":219
          }
       ],
       "graphicCoordinates":[
