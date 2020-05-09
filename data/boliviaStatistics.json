@@ -1,27 +1,27 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":2081,
-         "personasRecuperadas":219,
-         "muertes":102
+         "casosConfirmados":2266,
+         "personasRecuperadas":237,
+         "muertes":106
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1318,
+            "casosConfirmados":1387,
             "personasRecuperadas":80,
-            "muertes":52
+            "muertes":53
          },
          {
             "name":"La Paz",
-            "casosConfirmados":271,
-            "personasRecuperadas":49,
+            "casosConfirmados":294,
+            "personasRecuperadas":55,
             "muertes":16
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":82,
-            "personasRecuperadas":33,
+            "casosConfirmados":90,
+            "personasRecuperadas":40,
             "muertes":6
          },
          {
@@ -33,18 +33,18 @@
          {
             "name":"Pando",
             "casosConfirmados":12,
-            "personasRecuperadas":6,
+            "personasRecuperadas":7,
             "muertes":1
          },
          {
             "name":"Oruro",
-            "casosConfirmados":115,
-            "personasRecuperadas":45,
+            "casosConfirmados":116,
+            "personasRecuperadas":48,
             "muertes":8
          },
          {
             "name":"Tarija",
-            "casosConfirmados":6,
+            "casosConfirmados":9,
             "personasRecuperadas":0,
             "muertes":1
          },
@@ -56,9 +56,9 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":231,
-            "personasRecuperadas":0,
-            "muertes":16
+            "casosConfirmados":312,
+            "personasRecuperadas":1,
+            "muertes":19
          }
       ],
       "hystoricByDay":[
@@ -421,6 +421,12 @@
             "casos":2081,
             "muertes":102,
             "recuperados":219
+         },
+         {
+            "name":"8 May",
+            "casos":2266,
+            "muertes":237,
+            "recuperados":106
          }
       ],
       "graphicCoordinates":[
