@@ -1,26 +1,26 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":2266,
-         "personasRecuperadas":237,
-         "muertes":106
+         "casosConfirmados":2437,
+         "personasRecuperadas":258,
+         "muertes":114
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1387,
-            "personasRecuperadas":80,
-            "muertes":53
+            "casosConfirmados":1537,
+            "personasRecuperadas":87,
+            "muertes":56
          },
          {
             "name":"La Paz",
-            "casosConfirmados":294,
-            "personasRecuperadas":55,
+            "casosConfirmados":301,
+            "personasRecuperadas":63,
             "muertes":16
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":90,
+            "casosConfirmados":95,
             "personasRecuperadas":40,
             "muertes":6
          },
@@ -38,19 +38,19 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":116,
-            "personasRecuperadas":48,
-            "muertes":8
+            "casosConfirmados":121,
+            "personasRecuperadas":52,
+            "muertes":9
          },
          {
             "name":"Tarija",
-            "casosConfirmados":9,
-            "personasRecuperadas":0,
+            "casosConfirmados":10,
+            "personasRecuperadas":2,
             "muertes":1
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":11,
+            "casosConfirmados":14,
             "personasRecuperadas":0,
             "muertes":1
          },
@@ -58,7 +58,7 @@
             "name":"Beni",
             "casosConfirmados":312,
             "personasRecuperadas":1,
-            "muertes":19
+            "muertes":23
          }
       ],
       "hystoricByDay":[
@@ -425,8 +425,14 @@
          {
             "name":"8 May",
             "casos":2266,
-            "muertes":237,
-            "recuperados":106
+            "muertes":106,
+            "recuperados":237
+         },
+         {
+            "name":"8 May",
+            "casos":2437,
+            "muertes":114,
+            "recuperados":258
          }
       ],
       "graphicCoordinates":[
@@ -604,6 +610,16 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -63.6775,
+               -22.0164
+            ],
+            "radioInfection":4,
+            "location":"TARIJA-YACUIBA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -65.2554,
                -19.0429
             ],
@@ -694,6 +710,16 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -66.3667,
+               -17.3667
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-VINTO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -66.1653,
                -17.414
             ],
@@ -777,7 +803,7 @@
                -63.1561,
                -17.8146
             ],
-            "radioInfection":20,
+            "radioInfection":25,
             "location":"SANTA CRUZ - SANTA CRUZ DE LA SIERRA"
          },
          {
