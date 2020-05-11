@@ -1,34 +1,34 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":2437,
-         "personasRecuperadas":258,
-         "muertes":114
+         "casosConfirmados":2556,
+         "personasRecuperadas":273,
+         "muertes":118
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1537,
-            "personasRecuperadas":87,
-            "muertes":56
+            "casosConfirmados":1633,
+            "personasRecuperadas":92,
+            "muertes":59
          },
          {
             "name":"La Paz",
-            "casosConfirmados":301,
-            "personasRecuperadas":63,
+            "casosConfirmados":309,
+            "personasRecuperadas":67,
             "muertes":16
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":95,
+            "casosConfirmados":104,
             "personasRecuperadas":40,
             "muertes":6
          },
          {
             "name":"Potosí",
             "casosConfirmados":35,
-            "personasRecuperadas":6,
-            "muertes":1
+            "personasRecuperadas":7,
+            "muertes":2
          },
          {
             "name":"Pando",
@@ -38,8 +38,8 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":121,
-            "personasRecuperadas":52,
+            "casosConfirmados":124,
+            "personasRecuperadas":57,
             "muertes":9
          },
          {
@@ -50,13 +50,13 @@
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":14,
+            "casosConfirmados":15,
             "personasRecuperadas":0,
             "muertes":1
          },
          {
             "name":"Beni",
-            "casosConfirmados":312,
+            "casosConfirmados":314,
             "personasRecuperadas":1,
             "muertes":23
          }
@@ -433,6 +433,12 @@
             "casos":2437,
             "muertes":114,
             "recuperados":258
+         },
+         {
+            "name":"10 May",
+            "casos":2556,
+            "muertes":118,
+            "recuperados":273
          }
       ],
       "graphicCoordinates":[
