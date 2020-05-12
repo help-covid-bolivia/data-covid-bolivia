@@ -1,34 +1,34 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":2556,
-         "personasRecuperadas":273,
-         "muertes":118
+         "casosConfirmados":2831,
+         "personasRecuperadas":299,
+         "muertes":122
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1633,
-            "personasRecuperadas":92,
-            "muertes":59
+            "casosConfirmados":1823,
+            "personasRecuperadas":111,
+            "muertes":60
          },
          {
             "name":"La Paz",
-            "casosConfirmados":309,
-            "personasRecuperadas":67,
-            "muertes":16
+            "casosConfirmados":313,
+            "personasRecuperadas":68,
+            "muertes":17
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":104,
-            "personasRecuperadas":40,
+            "casosConfirmados":109,
+            "personasRecuperadas":45,
             "muertes":6
          },
          {
             "name":"Potosí",
-            "casosConfirmados":35,
+            "casosConfirmados":36,
             "personasRecuperadas":7,
-            "muertes":2
+            "muertes":1
          },
          {
             "name":"Pando",
@@ -51,14 +51,14 @@
          {
             "name":"Chuquisaca",
             "casosConfirmados":15,
-            "personasRecuperadas":0,
-            "muertes":1
+            "personasRecuperadas":1,
+            "muertes":2
          },
          {
             "name":"Beni",
-            "casosConfirmados":314,
+            "casosConfirmados":389,
             "personasRecuperadas":1,
-            "muertes":23
+            "muertes":25
          }
       ],
       "hystoricByDay":[
@@ -439,6 +439,12 @@
             "casos":2556,
             "muertes":118,
             "recuperados":273
+         },
+         {
+            "name":"11 May",
+            "casos":2831,
+            "muertes":122,
+            "recuperados":299
          }
       ],
       "graphicCoordinates":[
