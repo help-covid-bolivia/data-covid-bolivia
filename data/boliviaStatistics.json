@@ -1,28 +1,28 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":2964,
-         "personasRecuperadas":313,
-         "muertes":128
+         "casosConfirmados":3148,
+         "personasRecuperadas":339,
+         "muertes":142
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":1925,
-            "personasRecuperadas":117,
-            "muertes":64
+            "casosConfirmados":2041,
+            "personasRecuperadas":125,
+            "muertes":72
          },
          {
             "name":"La Paz",
-            "casosConfirmados":316,
-            "personasRecuperadas":76,
-            "muertes":17
+            "casosConfirmados":319,
+            "personasRecuperadas":93,
+            "muertes":19
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":130,
+            "casosConfirmados":148,
             "personasRecuperadas":45,
-            "muertes":7
+            "muertes":8
          },
          {
             "name":"Potosí",
@@ -39,7 +39,7 @@
          {
             "name":"Oruro",
             "casosConfirmados":128,
-            "personasRecuperadas":57,
+            "personasRecuperadas":58,
             "muertes":9
          },
          {
@@ -56,9 +56,9 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":389,
+            "casosConfirmados":436,
             "personasRecuperadas":1,
-            "muertes":26
+            "muertes":29
          }
       ],
       "hystoricByDay":[
@@ -451,6 +451,12 @@
             "casos":2964,
             "muertes":128,
             "recuperados":313
+         },
+         {
+            "name":"13 May",
+            "casos":3148,
+            "muertes":142,
+            "recuperados":339
          }
       ],
       "graphicCoordinates":[
