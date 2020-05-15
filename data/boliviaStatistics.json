@@ -1,26 +1,26 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":3148,
-         "personasRecuperadas":339,
-         "muertes":142
+         "casosConfirmados":3372,
+         "personasRecuperadas":356,
+         "muertes":152
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":2041,
-            "personasRecuperadas":125,
-            "muertes":72
+            "casosConfirmados":2163,
+            "personasRecuperadas":127,
+            "muertes":76
          },
          {
             "name":"La Paz",
-            "casosConfirmados":319,
-            "personasRecuperadas":93,
+            "casosConfirmados":322,
+            "personasRecuperadas":101,
             "muertes":19
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":148,
+            "casosConfirmados":170,
             "personasRecuperadas":45,
             "muertes":8
          },
@@ -38,8 +38,8 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":128,
-            "personasRecuperadas":58,
+            "casosConfirmados":132,
+            "personasRecuperadas":65,
             "muertes":9
          },
          {
@@ -56,9 +56,9 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":436,
+            "casosConfirmados":509,
             "personasRecuperadas":1,
-            "muertes":29
+            "muertes":35
          }
       ],
       "hystoricByDay":[
@@ -457,6 +457,12 @@
             "casos":3148,
             "muertes":142,
             "recuperados":339
+         },
+         {
+            "name":"14 May",
+            "casos":3372,
+            "muertes":152,
+            "recuperados":356
          }
       ],
       "graphicCoordinates":[
@@ -937,7 +943,7 @@
                -64.9000015,
                -14.8333302
             ],
-            "radioInfection":15,
+            "radioInfection":20,
             "location":"BENI-TRINIDAD"
          },
          {
