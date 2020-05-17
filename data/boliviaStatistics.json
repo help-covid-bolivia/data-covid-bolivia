@@ -1,28 +1,28 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":3372,
-         "personasRecuperadas":356,
-         "muertes":152
+         "casosConfirmados":3577,
+         "personasRecuperadas":434,
+         "muertes":164
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":2163,
-            "personasRecuperadas":127,
-            "muertes":76
+            "casosConfirmados":2297,
+            "personasRecuperadas":175,
+            "muertes":83
          },
          {
             "name":"La Paz",
-            "casosConfirmados":322,
-            "personasRecuperadas":101,
+            "casosConfirmados":328,
+            "personasRecuperadas":123,
             "muertes":19
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":170,
-            "personasRecuperadas":45,
-            "muertes":8
+            "casosConfirmados":196,
+            "personasRecuperadas":50,
+            "muertes":9
          },
          {
             "name":"Potosí",
@@ -56,9 +56,9 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":509,
-            "personasRecuperadas":1,
-            "muertes":35
+            "casosConfirmados":548,
+            "personasRecuperadas":4,
+            "muertes":39
          }
       ],
       "hystoricByDay":[
@@ -463,6 +463,12 @@
             "casos":3372,
             "muertes":152,
             "recuperados":356
+         },
+         {
+            "name":"15 May",
+            "casos":3577,
+            "muertes":164,
+            "recuperados":434
          }
       ],
       "graphicCoordinates":[
@@ -483,7 +489,7 @@
                -68.2147,
                -16.5001
             ],
-            "radioInfection":8,
+            "radioInfection":15,
             "location":"LA PAZ-EL ALTO"
          },
          {
@@ -520,10 +526,20 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -67.7437,
+               -17.332
+            ],
+            "radioInfection":4,
+            "location":"LA PAZ-SICA SICA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -67.5294037,
                -16.4085503
             ],
-            "radioInfection":2,
+            "radioInfection":4,
             "location":"LA PAZ-CHULUMANI"
          },
          {
@@ -630,6 +646,16 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -67.6618,
+               -20.7401
+            ],
+            "radioInfection":4,
+            "location":"POTOSI-COLCHA K"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -64.7281,
                -21.5214
             ],
@@ -653,8 +679,18 @@
                -65.2554,
                -19.0429
             ],
-            "radioInfection":4,
+            "radioInfection":6,
             "location":"CHUQUISACA-SUCRE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.943,
+               -20.8248
+            ],
+            "radioInfection":6,
+            "location":"CHUQUISACA-CULPINA"
          },
          {
             "markerOffset":0,
@@ -693,7 +729,7 @@
                -66.2783813,
                -17.3922806
             ],
-            "radioInfection":4,
+            "radioInfection":5,
             "location":"COCHABAMBA-QUILLACOLLO"
          },
          {
@@ -733,7 +769,7 @@
                -66.0382538,
                -17.3979893
             ],
-            "radioInfection":5,
+            "radioInfection":8,
             "location":"COCHABAMBA-SACABA"
          },
          {
@@ -750,11 +786,51 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -66.2157,
+               -17.3380
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-TIQUIPAYA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.8947,
+               -17.515
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-SAN BENITO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.9723,
+               -16.9723
+            ],
+            "radioInfection":4,
+            "location":"COCHABAMBA-VILLA TUNARI"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -66.1653,
                -17.414
             ],
             "radioInfection":5,
             "location":"COCHABAMBA-COLCAPIRHUA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -66.3438,
+               -17.4475
+            ],
+            "radioInfection":6,
+            "location":"COCHABAMBA-SIPE SIPE"
          },
          {
             "markerOffset":0,
@@ -790,11 +866,91 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -62.5589,
+               -17.2672
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-CUATRO CAÑADAS"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.3093,
+               -18.7863
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-CABEZAS"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.8755,
+               -18.1800
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-SAMAIPATA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.55,
+               -17.1334
+            ],
+            "radioInfection":5,
+            "location":"SANTA CRUZ-COLPA BELBICA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.8333,
+               -17.3999
+            ],
+            "radioInfection":5,
+            "location":"SANTA CRUZ-YAPACANI"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -62.75,
+               -17.6499
+            ],
+            "radioInfection":5,
+            "location":"SANTA CRUZ-PAILON"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -63.324,
                -17.891
             ],
-            "radioInfection":4,
+            "radioInfection":10,
             "location":"SANTA CRUZ-LA GUARDIA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.2322,
+               -17.01
+            ],
+            "radioInfection":5,
+            "location":"SANTA CRUZ-FERNANDEZ ALONZO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.3977,
+               -17.3548
+            ],
+            "radioInfection":10,
+            "location":"SANTA CRUZ-PORTACHUELO"
          },
          {
             "markerOffset":0,
@@ -803,7 +959,7 @@
                -63.1677818,
                -17.5163002
             ],
-            "radioInfection":4,
+            "radioInfection":10,
             "location":"SANTA CRUZ-WARNES"
          },
          {
@@ -815,6 +971,26 @@
             ],
             "radioInfection":4,
             "location":"SANTA CRUZ-ROBORE"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -63.6712,
+               -17.4582
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-BUENA VISTA"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.3233,
+               -18.3665
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ-MORO MORO"
          },
          {
             "markerOffset":0,
@@ -850,6 +1026,16 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -63.5183,
+               -20.0384
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ - CAMIRI"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -62.895359,
                -17.8062305
             ],
@@ -873,7 +1059,7 @@
                -63.383,
                -17.9923
             ],
-            "radioInfection":4,
+            "radioInfection":8,
             "location":"SANTA CRUZ - EL TORNO"
          },
          {
@@ -883,7 +1069,7 @@
                -63.230999,
                -17.1187592
             ],
-            "radioInfection":4,
+            "radioInfection":6,
             "location":"SANTA CRUZ - MINEROS"
          },
          {
@@ -910,6 +1096,16 @@
             "markerOffset":0,
             "name":"",
             "coordinates":[
+               -60.9500,
+               -16.3666
+            ],
+            "radioInfection":4,
+            "location":"SANTA CRUZ - SAN IGNACIO"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
                -63.2174,
                -17.2288
             ],
@@ -923,7 +1119,7 @@
                -63.9596,
                -18.1191
             ],
-            "radioInfection":4,
+            "radioInfection":6,
             "location":"SANTA CRUZ - MAIRANA"
          },
          {
@@ -945,6 +1141,26 @@
             ],
             "radioInfection":20,
             "location":"BENI-TRINIDAD"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -64.6674,
+               -15.0216
+            ],
+            "radioInfection":5,
+            "location":"BENI-SAN ANDRES"
+         },
+         {
+            "markerOffset":0,
+            "name":"",
+            "coordinates":[
+               -65.3581,
+               -10.8257
+            ],
+            "radioInfection":4,
+            "location":"BENI-GUAYARAMERIN"
          },
          {
             "markerOffset":0,
