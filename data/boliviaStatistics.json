@@ -465,6 +465,12 @@
             "recuperados":356
          },
          {
+            "name":"15 May",
+            "casos":3577,
+            "muertes":164,
+            "recuperados":434
+         },
+         {
             "name":"16 May",
             "casos":3826,
             "muertes":165,
@@ -472,12 +478,6 @@
          },
          {
             "name":"17 May",
-            "casos":3577,
-            "muertes":164,
-            "recuperados":434
-         },
-         {
-            "name":"15 May",
             "casos":4088,
             "muertes":169,
             "recuperados":493
