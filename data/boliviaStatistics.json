@@ -1,28 +1,28 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":4263,
-         "personasRecuperadas":503,
-         "muertes":174
+         "casosConfirmados":4481,
+         "personasRecuperadas":533,
+         "muertes":189
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados":2894,
-            "personasRecuperadas":187,
-            "muertes":88
+            "casosConfirmados":2982,
+            "personasRecuperadas":208,
+            "muertes":95
          },
          {
             "name":"La Paz",
-            "casosConfirmados":342,
-            "personasRecuperadas":171,
-            "muertes":20
+            "casosConfirmados":355,
+            "personasRecuperadas":174,
+            "muertes":21
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":228,
-            "personasRecuperadas":50,
-            "muertes":10
+            "casosConfirmados":246,
+            "personasRecuperadas":55,
+            "muertes":11
          },
          {
             "name":"Potosí",
@@ -38,14 +38,14 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":197,
+            "casosConfirmados":138,
             "personasRecuperadas":70,
             "muertes":9
          },
          {
             "name":"Tarija",
             "casosConfirmados":13,
-            "personasRecuperadas":2,
+            "personasRecuperadas":3,
             "muertes":2
          },
          {
@@ -56,9 +56,9 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":581,
+            "casosConfirmados":679,
             "personasRecuperadas":4,
-            "muertes":41
+            "muertes":47
          }
       ],
       "hystoricByDay":[
@@ -487,6 +487,12 @@
             "casos":4263,
             "muertes":174,
             "recuperados":503
+         },
+         {
+            "name":"19 May",
+            "casos":4481,
+            "muertes":189,
+            "recuperados":553
          }
       ],
       "graphicCoordinates":[
