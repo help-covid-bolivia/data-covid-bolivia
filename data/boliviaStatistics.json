@@ -1,32 +1,32 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":4919,
-         "personasRecuperadas":553,
-         "muertes":199
+         "casosConfirmados":5187,
+         "personasRecuperadas":561,
+         "muertes":215
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados": 3241,
-            "personasRecuperadas": 219,
-            "muertes":97
+            "casosConfirmados": 3414,
+            "personasRecuperadas": 225,
+            "muertes":107
          },
          {
             "name":"La Paz",
-            "casosConfirmados":363,
-            "personasRecuperadas":180,
-            "muertes":21
+            "casosConfirmados":375,
+            "personasRecuperadas":181,
+            "muertes":22
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":259,
+            "casosConfirmados":266,
             "personasRecuperadas":55,
             "muertes":11
          },
          {
             "name":"Potosí",
-            "casosConfirmados":40,
+            "casosConfirmados":41,
             "personasRecuperadas":11,
             "muertes":1
          },
@@ -38,14 +38,14 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":138,
+            "casosConfirmados":141,
             "personasRecuperadas":70,
-            "muertes":10
+            "muertes":12
          },
          {
             "name":"Tarija",
-            "casosConfirmados":14,
-            "personasRecuperadas":3,
+            "casosConfirmados":17,
+            "personasRecuperadas":4,
             "muertes":2
          },
          {
@@ -56,9 +56,9 @@
          },
          {
             "name":"Beni",
-            "casosConfirmados":833,
+            "casosConfirmados":902,
             "personasRecuperadas":4,
-            "muertes":54
+            "muertes":57
          }
       ],
       "hystoricByDay":[
@@ -499,6 +499,12 @@
             "casos":4919,
             "muertes":199,
             "recuperados":553
+         },
+         {
+            "name":"21 May",
+            "casos":5187,
+            "muertes":215,
+            "recuperados":561
          }
       ],
       "graphicCoordinates":[
