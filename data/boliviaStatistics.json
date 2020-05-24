@@ -1,28 +1,28 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":5187,
-         "personasRecuperadas":561,
-         "muertes":215
+         "casosConfirmados":5915,
+         "personasRecuperadas":609,
+         "muertes":240
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados": 3414,
-            "personasRecuperadas": 225,
-            "muertes":107
+            "casosConfirmados": 3900,
+            "personasRecuperadas": 244,
+            "muertes":117
          },
          {
             "name":"La Paz",
-            "casosConfirmados":375,
-            "personasRecuperadas":181,
-            "muertes":22
+            "casosConfirmados":386,
+            "personasRecuperadas":201,
+            "muertes":24
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":266,
+            "casosConfirmados":295,
             "personasRecuperadas":55,
-            "muertes":11
+            "muertes":13
          },
          {
             "name":"Potosí",
@@ -38,27 +38,27 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":141,
+            "casosConfirmados":145,
             "personasRecuperadas":70,
-            "muertes":12
+            "muertes":13
          },
          {
             "name":"Tarija",
-            "casosConfirmados":17,
-            "personasRecuperadas":4,
+            "casosConfirmados":18,
+            "personasRecuperadas":6,
             "muertes":2
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":19,
-            "personasRecuperadas":4,
+            "casosConfirmados":21,
+            "personasRecuperadas":11,
             "muertes":2
          },
          {
             "name":"Beni",
-            "casosConfirmados":902,
+            "casosConfirmados":1097,
             "personasRecuperadas":4,
-            "muertes":57
+            "muertes":67
          }
       ],
       "hystoricByDay":[
@@ -505,6 +505,18 @@
             "casos":5187,
             "muertes":215,
             "recuperados":561
+         },
+         {
+            "name":"22 May",
+            "casos":5579,
+            "muertes":230,
+            "recuperados":575
+         },
+         {
+            "name":"23 May",
+            "casos":5915,
+            "muertes":240,
+            "recuperados":609
          }
       ],
       "graphicCoordinates":[
