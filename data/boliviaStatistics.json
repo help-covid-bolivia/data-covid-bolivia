@@ -1,45 +1,45 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":5915,
-         "personasRecuperadas":609,
-         "muertes":240
+         "casosConfirmados":6263,
+         "personasRecuperadas":629,
+         "muertes":250
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados": 3900,
-            "personasRecuperadas": 244,
-            "muertes":117
+            "casosConfirmados": 4199,
+            "personasRecuperadas": 248,
+            "muertes":123
          },
          {
             "name":"La Paz",
-            "casosConfirmados":386,
-            "personasRecuperadas":201,
+            "casosConfirmados":394,
+            "personasRecuperadas":209,
             "muertes":24
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":295,
+            "casosConfirmados":329,
             "personasRecuperadas":55,
             "muertes":13
          },
          {
             "name":"Potosí",
-            "casosConfirmados":41,
-            "personasRecuperadas":11,
+            "casosConfirmados":42,
+            "personasRecuperadas":17,
             "muertes":1
          },
          {
             "name":"Pando",
-            "casosConfirmados":12,
+            "casosConfirmados":13,
             "personasRecuperadas":7,
             "muertes":1
          },
          {
             "name":"Oruro",
-            "casosConfirmados":145,
-            "personasRecuperadas":70,
+            "casosConfirmados":150,
+            "personasRecuperadas":72,
             "muertes":13
          },
          {
@@ -58,7 +58,7 @@
             "name":"Beni",
             "casosConfirmados":1097,
             "personasRecuperadas":4,
-            "muertes":67
+            "muertes":71
          }
       ],
       "hystoricByDay":[
@@ -517,7 +517,14 @@
             "casos":5915,
             "muertes":240,
             "recuperados":609
+         },
+         {
+            "name":"24 May",
+            "casos":6263,
+            "muertes":250,
+            "recuperados":629
          }
+         
       ],
       "graphicCoordinates":[
          {
