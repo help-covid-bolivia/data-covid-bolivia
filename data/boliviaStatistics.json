@@ -1,33 +1,33 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":6263,
-         "personasRecuperadas":629,
-         "muertes":250
+         "casosConfirmados":7136,
+         "personasRecuperadas":677,
+         "muertes":274
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados": 4199,
-            "personasRecuperadas": 248,
-            "muertes":123
+            "casosConfirmados": 4888,
+            "personasRecuperadas": 273,
+            "muertes":135
          },
          {
             "name":"La Paz",
-            "casosConfirmados":394,
-            "personasRecuperadas":209,
+            "casosConfirmados":410,
+            "personasRecuperadas":219,
             "muertes":24
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":329,
-            "personasRecuperadas":55,
-            "muertes":13
+            "casosConfirmados":345,
+            "personasRecuperadas":60,
+            "muertes":18
          },
          {
             "name":"Potosí",
-            "casosConfirmados":42,
-            "personasRecuperadas":17,
+            "casosConfirmados":44,
+            "personasRecuperadas":20,
             "muertes":1
          },
          {
@@ -38,27 +38,27 @@
          },
          {
             "name":"Oruro",
-            "casosConfirmados":150,
+            "casosConfirmados":153,
             "personasRecuperadas":72,
             "muertes":13
          },
          {
             "name":"Tarija",
-            "casosConfirmados":18,
-            "personasRecuperadas":6,
-            "muertes":2
+            "casosConfirmados":19,
+            "personasRecuperadas":7,
+            "muertes":3
          },
          {
             "name":"Chuquisaca",
-            "casosConfirmados":21,
+            "casosConfirmados":22,
             "personasRecuperadas":11,
             "muertes":2
          },
          {
             "name":"Beni",
-            "casosConfirmados":1097,
-            "personasRecuperadas":4,
-            "muertes":71
+            "casosConfirmados":1242,
+            "personasRecuperadas":8,
+            "muertes":77
          }
       ],
       "hystoricByDay":[
@@ -523,6 +523,18 @@
             "casos":6263,
             "muertes":250,
             "recuperados":629
+         },
+         {
+            "name":"25 May",
+            "casos":6660,
+            "muertes":261,
+            "recuperados":647
+         },
+         {
+            "name":"26 May",
+            "casos":7136,
+            "muertes":274,
+            "recuperados":677
          }
          
       ],
