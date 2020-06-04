@@ -1,64 +1,64 @@
 {
    "data":{
       "generalInfo":{
-         "casosConfirmados":7136,
-         "personasRecuperadas":677,
-         "muertes":274
+         "casosConfirmados":11638,
+         "personasRecuperadas":1507,
+         "muertes":400
       },
       "byDepartment":[
          {
             "name":"Santa Cruz",
-            "casosConfirmados": 4888,
-            "personasRecuperadas": 273,
-            "muertes":135
+            "casosConfirmados": 7637,
+            "personasRecuperadas": 1048,
+            "muertes":189
          },
          {
             "name":"La Paz",
-            "casosConfirmados":410,
-            "personasRecuperadas":219,
-            "muertes":24
+            "casosConfirmados":635,
+            "personasRecuperadas":251,
+            "muertes":35
          },
          {
             "name":"Cochabamba",
-            "casosConfirmados":345,
-            "personasRecuperadas":60,
-            "muertes":18
+            "casosConfirmados":851,
+            "personasRecuperadas":64,
+            "muertes":45
          },
          {
             "name":"Potosí",
-            "casosConfirmados":44,
-            "personasRecuperadas":20,
-            "muertes":1
-         },
-         {
-            "name":"Pando",
-            "casosConfirmados":13,
-            "personasRecuperadas":7,
-            "muertes":1
-         },
-         {
-            "name":"Oruro",
-            "casosConfirmados":153,
-            "personasRecuperadas":72,
-            "muertes":13
-         },
-         {
-            "name":"Tarija",
-            "casosConfirmados":19,
-            "personasRecuperadas":7,
+            "casosConfirmados":98,
+            "personasRecuperadas":28,
             "muertes":3
          },
          {
-            "name":"Chuquisaca",
-            "casosConfirmados":22,
+            "name":"Pando",
+            "casosConfirmados":23,
             "personasRecuperadas":11,
             "muertes":2
          },
          {
+            "name":"Oruro",
+            "casosConfirmados":222,
+            "personasRecuperadas":74,
+            "muertes":16
+         },
+         {
+            "name":"Tarija",
+            "casosConfirmados":40,
+            "personasRecuperadas":7,
+            "muertes":4
+         },
+         {
+            "name":"Chuquisaca",
+            "casosConfirmados":31,
+            "personasRecuperadas":14,
+            "muertes":2
+         },
+         {
             "name":"Beni",
-            "casosConfirmados":1242,
-            "personasRecuperadas":8,
-            "muertes":77
+            "casosConfirmados":2101,
+            "personasRecuperadas":10,
+            "muertes":104
          }
       ],
       "hystoricByDay":[
@@ -535,6 +535,54 @@
             "casos":7136,
             "muertes":274,
             "recuperados":677
+         },
+         {
+            "name":"27 May",
+            "casos":7768,
+            "muertes":280,
+            "recuperados":689
+         },
+         {
+            "name":"28 May",
+            "casos":8387,
+            "muertes":293,
+            "recuperados":738
+         },
+         {
+            "name":"29 May",
+            "casos":8731,
+            "muertes":300,
+            "recuperados":749
+         },
+         {
+            "name":"30 May",
+            "casos":9592,
+            "muertes":310,
+            "recuperados":889
+         },
+         {
+            "name":"31 May",
+            "casos":9982,
+            "muertes":313,
+            "recuperados":986
+         },
+         {
+            "name":"1 Jun",
+            "casos":10531,
+            "muertes":343,
+            "recuperados":1137
+         },
+         {
+            "name":"2 Jun",
+            "casos":10991,
+            "muertes":376,
+            "recuperados":1298
+         },
+         {
+            "name":"3 Jun",
+            "casos":11638,
+            "muertes":400,
+            "recuperados":1507
          }
          
       ],
